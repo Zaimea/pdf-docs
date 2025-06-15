@@ -2,9 +2,6 @@
 title: How to install package
 description: How to install package
 github: https://github.com/zaimea/pdf-docs/edit/main/
-sections: 
-    installation : 'Install'
-    publish : 'Publish'
 ---
 
 # Metrics
